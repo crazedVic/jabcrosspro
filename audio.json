@@ -1,0 +1,1658 @@
+
+[
+  {
+    "filename": "01-PRE_01.mp3",
+    "phases": [
+      "PREPARE"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "01-PRE_02.mp3",
+    "phases": [
+      "PREPARE"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "01-PRE_03.mp3",
+    "phases": [
+      "PREPARE"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "01-PRE_04.mp3",
+    "phases": [
+      "PREPARE"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "01-PRE_05.mp3",
+    "phases": [
+      "PREPARE"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "01-PRE_06.mp3",
+    "phases": [
+      "PREPARE"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "01-PRE_07.mp3",
+    "phases": [
+      "PREPARE"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "01-PRE_08.mp3",
+    "phases": [
+      "PREPARE"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "01-PRE_09.mp3",
+    "phases": [
+      "PREPARE"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "01-PRE_10.mp3",
+    "phases": [
+      "PREPARE"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03a-SYNC_01.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03a-SYNC_02.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03a-SYNC_03.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03a-SYNC_04.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03a-SYNC_05.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03a-SYNC_06.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03a-SYNC_07.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03a-SYNC_08.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03a-SYNC_09.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03a-SYNC_10.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03b-RND_Again.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1600,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 25
+  },
+  {
+    "filename": "03b-RND_Cross.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "SHORT",
+    "time": 1300,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 40
+  },
+  {
+    "filename": "03b-RND_CrossHook.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "SHORT",
+    "time": 1500,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 25
+  },
+  {
+    "filename": "03b-RND_CrossHookCross.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "MEDIUM",
+    "time": 1600,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 30
+  },
+  {
+    "filename": "03b-RND_DoubleJab.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "SHORT",
+    "time": 1300,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 40
+  },
+  {
+    "filename": "03b-RND_DoubleJabCross.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "MEDIUM",
+    "time": 1600,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 40
+  },
+  {
+    "filename": "03b-RND_Jab.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "SHORT",
+    "time": 1300,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 60
+  },
+  {
+    "filename": "03b-RND_Jab02.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "SHORT",
+    "time": 1300,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 60
+  },
+  {
+    "filename": "03b-RND_JabCross.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "SHORT",
+    "time": 1400,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 60
+  },
+  {
+    "filename": "03b-RND_JabCrossHook.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "MEDIUM",
+    "time": 1500,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 40
+  },
+  {
+    "filename": "03b-RND_JabCrossHookCross.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "LONG",
+    "time": 1700,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 30
+  },
+  {
+    "filename": "03b-RND_JabCrossJabCross.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "MEDIUM",
+    "time": 1600,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03b-RND-INT_CrossTwoHooks.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "LONG",
+    "time": 1700,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 20
+  },
+  {
+    "filename": "03b-RND-INT_DoItAgain.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1700,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 20
+  },
+  {
+    "filename": "03b-RND-INT_DoubleJabCrossHookCross.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "LONG",
+    "time": 2200,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 30
+  },
+  {
+    "filename": "03b-RND-INT_HookBodyHookHead.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "MEDIUM",
+    "time": 2000,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 30
+  },
+  {
+    "filename": "03b-RND-INT_One.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "SHORT",
+    "time": 1300,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03b-RND-INT_OneTwo.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "SHORT",
+    "time": 1300,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 45
+  },
+  {
+    "filename": "03b-RND-INT_OneTwoOneTwo.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "MEDIUM",
+    "time": 1700,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 45
+  },
+  {
+    "filename": "03b-RND-INT_OneTwoThree.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "MEDIUM",
+    "time": 1700,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 40
+  },
+  {
+    "filename": "03b-RND-INT_RearUHookCross.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "LONG",
+    "time": 2200,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 15
+  },
+  {
+    "filename": "03b-RND-INT_TripleJab.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "LONG",
+    "time": 1700,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 35
+  },
+  {
+    "filename": "03b-RND-INT_TwoThreeThree.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "MEDIUM",
+    "time": 2100,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 20
+  },
+  {
+    "filename": "03b-RND-INT_TwoThreeTwo.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "MEDIUM",
+    "time": 1500,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 30
+  },
+  {
+    "filename": "03b-RND-INT_UpperTwoThreeTwoThree.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "LONG",
+    "time": 2200,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 30
+  },
+  {
+    "filename": "03b-RND-INT_OneTwoOneTwoHook.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "LONG",
+    "time": 2100,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 30
+  },
+  {
+    "filename": "03b-RND-INT_OneTwoHookTwoHook.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "LONG",
+    "time": 2100,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 30
+  },
+  {
+    "filename": "03b-RND-INT_OneTwoJabJabTwo.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "LONG",
+    "time": 2100,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 30
+  },
+  {
+    "filename": "03b-RND-INT_JabJabTwoThreeTwo.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "LONG",
+    "time": 2000,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 30
+  },
+  {
+    "filename": "03c-MOT_Alright.mp3",
+    "phases": [
+      "ROUND",
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 750,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03c-MOT_BackToFace.mp3",
+    "phases": [
+      "ROUND",
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 800,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03c-MOT_Beautiful.mp3",
+    "phases": [
+      "ROUND",
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 750,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03c-MOT_BitQuicker.mp3",
+    "phases": [
+      "ROUND",
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 800,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03c-MOT_BreatheOut.mp3",
+    "phases": [
+      "ROUND",
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 750,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03c-MOT_ChinDown.mp3",
+    "phases": [
+      "ROUND",
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 800,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03c-MOT_Focus.mp3",
+    "phases": [
+      "ROUND",
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 750,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03c-MOT_Good.mp3",
+    "phases": [
+      "ROUND",
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 750,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03c-MOT_KeepItSharp.mp3",
+    "phases": [
+      "ROUND",
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 800,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03c-MOT_MorePower.mp3",
+    "phases": [
+      "ROUND",
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 750,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03c-MOT_Nice.mp3",
+    "phases": [
+      "ROUND",
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 800,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03c-MOT_RotateBody.mp3",
+    "phases": [
+      "ROUND",
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 750,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03c-MOT_ShakeItOff.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2000,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03c-MOT_Wonderful.mp3",
+    "phases": [
+      "ROUND",
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 750,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "04-BUR_01.mp3",
+    "phases": [
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "04-BUR_02.mp3",
+    "phases": [
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "04-BUR_03.mp3",
+    "phases": [
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "04-BUR_04.mp3",
+    "phases": [
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "04-BUR_05.mp3",
+    "phases": [
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "04-BUR_06.mp3",
+    "phases": [
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "04-BUR_07.mp3",
+    "phases": [
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "04-BUR_08.mp3",
+    "phases": [
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "04-BUR_09.mp3",
+    "phases": [
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "04-BUR_10.mp3",
+    "phases": [
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "05-RES_01.mp3",
+    "phases": [
+      "REST"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "05-RES_02.mp3",
+    "phases": [
+      "REST"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "05-RES_03.mp3",
+    "phases": [
+      "REST"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "05-RES_04.mp3",
+    "phases": [
+      "REST"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "05-RES_05.mp3",
+    "phases": [
+      "REST"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "05-RES_06.mp3",
+    "phases": [
+      "REST"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "05-RES_07.mp3",
+    "phases": [
+      "REST"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "05-RES_08.mp3",
+    "phases": [
+      "REST"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "05-RES_09.mp3",
+    "phases": [
+      "REST"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "05-RES_10.mp3",
+    "phases": [
+      "REST"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03D-FNLRND_01.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "FINAL"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03D-FNLRND_02.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "FINAL"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03D-FNLRND_03.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "FINAL"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03D-FNLRND_04.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "FINAL"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03D-FNLRND_05.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "FINAL"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03D-FNLRND_06.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "FINAL"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03D-FNLRND_07.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "FINAL"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03D-FNLRND_08.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "FINAL"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03D-FNLRND_09.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "FINAL"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03D-FNLRND_10.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1000,
+    "positions": [
+      "FINAL"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "06-END_01.mp3",
+    "phases": [
+      "COOLDOWN"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 100
+  },
+  {
+    "filename": "06-END_02.mp3",
+    "phases": [
+      "COOLDOWN"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 100
+  },
+  {
+    "filename": "06-END_03.mp3",
+    "phases": [
+      "COOLDOWN"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 100
+  },
+  {
+    "filename": "06-END_04.mp3",
+    "phases": [
+      "COOLDOWN"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 100
+  },
+  {
+    "filename": "06-END_05.mp3",
+    "phases": [
+      "COOLDOWN"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 100
+  },
+  {
+    "filename": "06-END_06.mp3",
+    "phases": [
+      "COOLDOWN"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 100
+  },
+  {
+    "filename": "06-END_07.mp3",
+    "phases": [
+      "COOLDOWN"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 100
+  },
+  {
+    "filename": "06-END_08.mp3",
+    "phases": [
+      "COOLDOWN"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 1500,
+    "positions": [
+      "INTRO"
+    ],
+    "weight": 100
+  }
+]
