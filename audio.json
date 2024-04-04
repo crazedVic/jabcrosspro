@@ -508,6 +508,23 @@
     "weight": 30
   },
   {
+    "filename": "03b-RND_JabCrossJab.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "MEDIUM",
+    "time": 1500,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 40
+  },
+  {
     "filename": "03b-RND_JabCrossJabCross.mp3",
     "phases": [
       "ROUND"
@@ -615,6 +632,22 @@
     "tip": "",
     "size": "SHORT",
     "time": 1300,
+    "positions": [
+      "EMBED"
+    ],
+    "weight": 45
+  },
+  {
+    "filename": "03b-RND-INT_OneTwoOne.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "size": "SHORT",
+    "time": 1500,
     "positions": [
       "EMBED"
     ],
@@ -977,10 +1010,45 @@
     "weight": 50
   },
   {
+    "filename": "03c-MOT_MoveInOut.mp3",
+    "phases": [
+      "ROUND",
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 750,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 50
+  },
+  {
     "filename": "03c-MOT_Nice.mp3",
     "phases": [
       "ROUND",
       "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 800,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 50
+  },
+  {
+    "filename": "03c-MOT_VisualizeOpponent.mp3",
+    "phases": [
+      "ROUND",
     ],
     "levels": [
       "BEGINNER",
@@ -1014,6 +1082,23 @@
   },
   {
     "filename": "03c-MOT_ShakeItOff.mp3",
+    "phases": [
+      "ROUND"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 4800,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 55
+  },
+  {
+    "filename": "03c-MOT_MoveAround.mp3",
     "phases": [
       "ROUND"
     ],
