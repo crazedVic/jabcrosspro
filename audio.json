@@ -1012,8 +1012,7 @@
   {
     "filename": "03c-MOT_MoveInOut.mp3",
     "phases": [
-      "ROUND",
-      "BURNOUT"
+      "ROUND"
     ],
     "levels": [
       "BEGINNER",
