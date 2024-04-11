@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "voices": [
+        "eddie",
+        "jenny"
+    ],
+    "premium": false,
+    "round_lengths": [
+        12000,
+        18000,
+        24000
+    ]
+}
