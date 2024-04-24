@@ -1080,6 +1080,23 @@
     "weight": 50
   },
   {
+    "filename": "03c-MOT_OneBurpee.mp3",
+    "phases": [
+      "BURNOUT"
+    ],
+    "levels": [
+      "BEGINNER",
+      "INTERMEDIATE"
+    ],
+    "tip": "",
+    "time": 2615,
+    "positions": [
+      "EMBED",
+      "MOTIVATE"
+    ],
+    "weight": 50
+  },
+  {
     "filename": "03c-MOT_ShakeItOff.mp3",
     "phases": [
       "ROUND"
