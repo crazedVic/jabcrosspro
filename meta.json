@@ -10,6 +10,6 @@
   "cooldown_length": 8,
   "burnout_beep": "02a-TIM_Beep-Alarm.mp3",
   "rest_beep": "02a-TIM_Beep-Alarm.mp3", 
-  "prepare_beep": "",
-  "cooldown_beep": ""
+  "prepare_beep": "02a-TIM_Beep-Alarm.mp3",
+  "cooldown_beep": "02a-TIM_Beep-Alarm.mp3"
 }
