@@ -1,14 +1,15 @@
 {
-    "version": 1,
-    "voices": [
-        "eddie",
-        "jenny"
-    ],
-    "premium": false,
-    "round_lengths": [
-        12000,
-        18000,
-        24000
-    ],
-    "survey_url": "https://docs.google.com/forms/d/e/1FAIpQLSem2ykSC9joc-UEA6iyVC_NHJfo_PXmAxRmi3nteIoDQds0OQ/viewform?vc=0&c=0&w=1&flr=0"
+  "version": 2,
+  "voices": ["eddie", "jenny"],
+  "premium": false,
+  "round_lengths": [12000, 18000, 24000],
+  "survey_url": "https://docs.google.com/forms/d/e/1FAIpQLSem2ykSC9joc-UEA6iyVC_NHJfo_PXmAxRmi3nteIoDQds0OQ/viewform?vc=0&c=0&w=1&flr=0",
+  "burnout_length": 30,
+  "rest_length": 30,
+  "prepare_length": 10,
+  "cooldown_length": 8,
+  "burnout_beep": "02a-TIM_Beep-Alarm.mp3",
+  "rest_beep": "02a-TIM_Beep-Alarm.mp3", 
+  "prepare_beep": "",
+  "cooldown_beep": ""
 }
