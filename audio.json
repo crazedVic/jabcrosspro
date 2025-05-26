@@ -896,7 +896,7 @@
       "EMBED",
       "MOTIVATE"
     ],
-    "weight": 25,
+    "weight": 28,
     "decibels": [
       96,
       90,
@@ -1206,6 +1206,7 @@
       "ROUND"
     ],
     "levels": [
+      "BEGINNER",
       "INTERMEDIATE"
     ],
     "tip": "",
@@ -1214,7 +1215,7 @@
       "EMBED",
       "MOTIVATE"
     ],
-    "weight": 20,
+    "weight": 28,
     "decibels": [
       96,
       94,
