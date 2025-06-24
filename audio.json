@@ -1985,33 +1985,6 @@
     ]
   },
   {
-    "filename": "03c-MOT_OneBurpee.mp3",
-    "phases": [
-      "BURNOUT"
-    ],
-    "levels": [
-      "INTERMEDIATE"
-    ],
-    "tip": "",
-    "time": 2615,
-    "positions": [
-      "EMBED",
-      "MOTIVATE"
-    ],
-    "weight": 75,
-    "decibels": [
-      93,
-      86,
-      87,
-      89,
-      89,
-      90,
-      97,
-      99,
-      0
-    ]
-  },
-  {
     "filename": "03c-MOT_ShakeItOff.mp3",
     "phases": [
       "ROUND"
