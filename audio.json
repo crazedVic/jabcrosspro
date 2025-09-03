@@ -896,7 +896,7 @@
       "EMBED",
       "MOTIVATE"
     ],
-    "weight": 48,
+    "weight": 49,
     "decibels": [
       96,
       90,
@@ -1215,7 +1215,7 @@
       "EMBED",
       "MOTIVATE"
     ],
-    "weight": 48,
+    "weight": 49,
     "decibels": [
       96,
       94,
@@ -1257,7 +1257,7 @@
     ],
     "tip": "",
     "size": "LONG",
-    "time": 2200,
+    "time": 2500,
     "positions": [
       "EMBED"
     ],
@@ -1449,29 +1449,6 @@
       88,
       96,
       39
-    ]
-  },
-  {
-    "filename": "03b-RND-INT_TwoThreeThree.mp3",
-    "phases": [
-      "ROUND"
-    ],
-    "levels": [
-      "INTERMEDIATE"
-    ],
-    "tip": "",
-    "size": "MEDIUM",
-    "time": 2100,
-    "positions": [
-      "EMBED"
-    ],
-    "weight": 20,
-    "decibels": [
-      95,
-      93,
-      93,
-      93,
-      0
     ]
   },
   {
